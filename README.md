@@ -13,3 +13,8 @@ gosto de conversa, mato o tempo jogando ou vendo videos na internet, e amo escut
 ➜Adoro estudar <br>
 ➜Gostaria aprender mais sobre programação <br>
 ➜Gosto de jogar(com amigos) <br>
+
+<br>
+
+<div style="display:inline_block">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=" _blank"></a>
