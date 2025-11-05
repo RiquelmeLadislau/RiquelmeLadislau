@@ -2,6 +2,10 @@
 
 Gosto de transformar ideias em aplicações reais, utilizando boas práticas e sempre aprendendo novas ferramentas. 🚀
 
+- Gosto de rock
+- Amo animais
+
+
 ---
 
 ## 🧠 Tecnologias e Ferramentas
