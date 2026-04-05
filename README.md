@@ -37,11 +37,9 @@ Gosto de trabalho em conjunto, gosto de participar de todas as etapas de um proj
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RiquelmeLadislau&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiquelmeLadislau&layout=compact&theme=tokyonight"/>
-</p>
-
+```
+Em construção..
+```
 ---
 
 ## 🌐 Onde me encontrar
