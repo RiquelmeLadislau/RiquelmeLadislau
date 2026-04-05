@@ -1,9 +1,10 @@
-# 👋 Olá, eu sou Riquelme!
+# Olá, eu sou Riquelme!
 
-Gosto de transformar ideias em aplicações reais, utilizando boas práticas e sempre aprendendo novas ferramentas. 🚀
+Gosto de trabalho em conjunto, gosto de participar de todas as etapas de um projeto nem que seja um pouco de cada.
 
-- Gosto de rock
+- Gosto de musicas 
 - Amo animais
+- Gosto de ARGS
 
 
 ---
@@ -47,10 +48,9 @@ Gosto de transformar ideias em aplicações reais, utilizando boas práticas e s
 
 📫 **Entre em contato comigo:**
 - 💼 [LinkedIn](https://linkedin.com/in/S)
-- 💌 [Email](mailto:riquelme.silva53@aluno.ce.gov.br)
+- 💌 [Email](mailto:raykakak42@gmail.com)
 - 🌎 [Portfólio](https://)
 
 ---
 
-⭐ *“Código limpo é aquele que parece ter sido escrito por alguém que se importa.”*  
-— Robert C. Martin
+"Dentre as outras coisas, essa é a unica certeza que tenho"
